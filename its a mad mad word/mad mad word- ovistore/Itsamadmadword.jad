@@ -1,0 +1,8 @@
+MIDlet-1: Its a mad mad word,/IMAGE.png,Its_a_mad_mad_word
+MIDlet-Jar-Size: 357025
+MIDlet-Jar-URL: Itsamadmadword.jar
+MIDlet-Name: Its a mad mad word
+MIDlet-Vendor: Siddharth CT
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

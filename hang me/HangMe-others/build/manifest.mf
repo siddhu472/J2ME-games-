@@ -1,0 +1,6 @@
+MIDlet-1: HangMe,/main.png,HangMe
+MIDlet-Vendor: Siddharth CT
+MIDlet-Name: HangMe
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

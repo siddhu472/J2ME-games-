@@ -1,0 +1,52 @@
+have a label 
+
+four radio buttons making a group 
+
+A set of words and their meanings 
+
+Random : 
+
+1. Generate a word randomly and have its meaning 
+
+Random r = new Random 
+
+int t = r.nextInt(words.length); 
+
+word = words[t]
+
+meaning = meaning[t]
+
+String ans = new String[4]; 
+int index = new int[4]; 
+
+ans[0] = meaning ; 
+index[0] = t ; 
+
+generate three other random words 
+
+for(int i=1;i<4;i++)
+{
+
+int x = r.nextInt(words.length)
+boolean checker = check(x)
+if(checker = true)
+ans[i] = words[x]; 
+index[i] = x ; 
+
+}
+
+display (word is words[t])
+
+options : 
+
+void randseriesgen()
+{
+int order = new int[4]; 
+
+
+
+}
+
+now i have 4 different answers
+
+how do i put them in different order everytime
